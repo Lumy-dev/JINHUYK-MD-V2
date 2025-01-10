@@ -29,7 +29,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "XJBRWCBK#ahvwOA7Qoz-LJDiKddn-lTvn2bI-wGkoO6-NUhqUBV4",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 OWNER_NUMBER: process.env.OWNER_NUMBER || "242056717867",
-MODE: process.env.MODE || "priver",  // PRIVATE OR PUBLIC
+MODE: process.env.MODE || "PRIVATE",  // PRIVATE OR PUBLIC
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
@@ -38,11 +38,11 @@ ALIVE_MSG: process.env.ALIVE_MSG || "𝙹𝙸𝙽𝙷𝚄𝚈𝙺 ᴀɪ ɪs ᴀ�
 ANTI_LINK: process.env.ANTI_LINK || "false",
 ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || "/", // .,!/?
-FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
+FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
 AUTO_REACT: process.env.AUTO_REACT || "true",
-HEART_REACT: process.env.HEART_REACT || "false",
+HEART_REACT: process.env.HEART_REACT || "true",
 OWNER_REACT: process.env.OWNER_REACT || "true",
-BOT_NAME: process.env.BOT_NAME || "『 ＪＩＮＨＵＹＫ-ＭＤ-Ｖ２ 』",
+BOT_NAME: process.env.BOT_NAME || "『 ┃•🌹⛃⃟✮͢𝐼⃪𝐿⃪𝐿⃪𝑈⃪𝑀⃪𝐼⃪𝑁⃪𝐴⃪𝑇⃪𝐼⃪⿴⃟ٍࣽ𝐺⃪𝑅⃪𝐼⃪𝑀⃪𝑀⃪🌹 』",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
 
